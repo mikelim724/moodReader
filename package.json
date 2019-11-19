@@ -9,10 +9,12 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^10.0.6",
+    "braces": "^3.0.2",
     "clarifai": "^2.9.1",
     "expo": "^35.0.0",
     "expo-camera": "~7.0.0",
     "expo-font": "~7.0.0",
+    "mem": "^6.0.0",
     "native-base": "^2.13.8",
     "react": "16.8.3",
     "react-dom": "16.8.3",
